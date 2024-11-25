@@ -1,0 +1,19 @@
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\Recoil Control.exe.config
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\Recoil Control.exe
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\Recoil Control.pdb
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\Newtonsoft.Json.xml
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\System.Buffers.xml
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\System.Memory.xml
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\System.Numerics.Vectors.xml
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\YourNameSpace.CustomMessageBox.resources
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\RecoilControl.MainForm.resources
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil.csproj.Fody.CopyLocal.cache
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil.csproj.Up2Date
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil Control.exe
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\Recoil Control.pdb
+C:\Users\domin\Desktop\recoil control\Recoil-Control\RecoilTime\obj\Release\RecoilControl.Properties.Resources.resources
